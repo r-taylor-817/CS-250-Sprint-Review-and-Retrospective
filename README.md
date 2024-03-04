@@ -2,10 +2,12 @@
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-
+In order to interpret user needs and implement them into a program, I first consider what the client wants generally from the application (what it is and what it should do). From there, it becomes easier to break this large need down into smaller needs that are then fulfilled incrimentally while the project is completed, while keeping the thought in mind about how each part will work to fulfill the larger need. Creating user stories helps tremendously throughout this process because they provide clear goals to meet which, once all completed, will signal the completion of the ultimate goal. When creating these user stories, the act of articulating the user's needs aids greatly in furthering my understanding of what the client desires from the program.
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-
+My approach for developing programs begins by first assessing what functionality exactly the client wants out of the program. Doing so allows me to break this large goal down into smaller, easily achievable goals that will come together to comprise the finished product. Outside of this, my approach for developing programs was not very structured before learning the agile development process. This made for a scattered, time consuming process. After learning and practicing the agile development process, the main principles I plan to incorporate into future development work are incremental development and user stories. These two principles combines will allow me to break the larger goal down into small goals while clearly defining steps that will be taken to bring the project to completion. This level of organization and defining steps is important as it removes the confusion that may come with facing a larger task without defined steps to conquer it.
 
 What does it mean to be a good team member in software development?
+
+Being a good team member in software development means to communicate early and often with your team members, to provide and recieve honest feedback without taking it personally, to strive to constantly be learning from your experience and your peers, and to deliver the best product possible to the client. The majority of the listed attributes of a good team member coincide with the attributes of an agile team member. This speaks volumes to the use of the agile development methodology within the field of software development. The key attribute above all of the ones listed is to constantly be learning, as technology is a rapidly changing field and to constantly learn means to stay current with the shifting nature of software development.
